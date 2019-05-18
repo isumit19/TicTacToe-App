@@ -12,6 +12,9 @@
 ## Screenshot of Activites
 <img src="Screenshots/1.png" width="160">    <img src="Screenshots/2.png" width="160">    <img src="Screenshots/3.png" width="160">    <img src="Screenshots/4.png" width="160">    <img src="Screenshots/5.png" width="160">
 
+## APK File
+<a href="app/release/app-release.apk">Tic Tac Toe</a>
+
 ### Implementation of AI vs Player
 * Selecting the Best Move for the AI
   * <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/">MiniMax Algorithm</a>
