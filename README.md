@@ -5,9 +5,7 @@
   *  Player vs Computer
 
 ## Screenshot of Activites
-
-![Launch](https://github.com/isumit19/TicTacToe-App/blob/Screenshots/1.png)--
-![Main](https://github.com/vinaysomawat/TicTacToe-App/Screenshots/2.png)
+<img src="Screenshots/1.png" width="160">    <img src="Screenshots/2.png" width="160">    <img src="Screenshots/3.png" width="160">    <img src="Screenshots/4.png" width="160">    <img src="Screenshots/5.png" width="160">
 
 ------------------------------------------------------------------
 ### To setup the project on your local machine:
